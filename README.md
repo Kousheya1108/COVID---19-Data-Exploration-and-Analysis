@@ -1,1 +1,1 @@
-# COVID-19-Data-Exploration-and-Analysis
+# COVID-19-DATA-EXPLORATION-AND-ANALYSIS
